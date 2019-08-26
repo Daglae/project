@@ -1,1 +1,1 @@
-My game is change game there is ships in 5x5 area and you dont see ships you Try to hit by guessing the number and if you hit you earn point if you dont hit you lose point game start at 250 point good luck 
+My game is chance game there is ships in 5x5 area and you dont see ships you Try to hit by guessing the number and if you hit you earn point if you dont hit you lose point game start at 250 point good luck 
